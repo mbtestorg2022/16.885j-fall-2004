@@ -21,10 +21,120 @@ Teams are encouraged to ask their Subject Matter Expert to read Version III for 
 
 The due dates for the case study versions are as follows:
 
-| LEC # | CASE STUDIES |
-| --- | --- |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 2 Hard Copies of Written Version I Due in Class {{< br >}}{{< br >}} First Drafts of Sections 2-4 {{< br >}}{{< br >}} Working Outline for Remaining Sections {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 2 Hard Copies of Written Version II Due in Class {{< br >}}{{< br >}} Second Drafts of Sections 2-4 {{< br >}}{{< br >}} First Draft of Sections 5-6 (Without all the Sub-systems) {{< br >}}{{< br >}} Solid Outline or Early Drafts of Sections 7-9 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25 Minute Team Presentations of Material in Sections 2-6 {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 3 Hard Copies of Written Version III Due in Class {{< br >}}{{< br >}} Draft of Sections 1-10 {{< br >}}{{< br >}} (Version III represents a Draft of the Final Case Study)  {{< br >}}(Content should be representative of Final Version) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25 Minute Team Presentations of Material in Sections 1-10 {{< br >}}{{< br >}} 4 Hard Copies of Final Written Version Due in Class (Includes all Sections) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+CASE STUDIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2 Hard Copies of Written Version I Due in Class
+
+First Drafts of Sections 2-4
+
+Working Outline for Remaining Sections
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2 Hard Copies of Written Version II Due in Class
+
+Second Drafts of Sections 2-4
+
+First Draft of Sections 5-6 (Without all the Sub-systems)
+
+Solid Outline or Early Drafts of Sections 7-9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25 Minute Team Presentations of Material in Sections 2-6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Hard Copies of Written Version III Due in Class
+
+Draft of Sections 1-10
+
+(Version III represents a Draft of the Final Case Study)  
+(Content should be representative of Final Version)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25 Minute Team Presentations of Material in Sections 1-10
+
+4 Hard Copies of Final Written Version Due in Class (Includes all Sections)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
