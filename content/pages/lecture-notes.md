@@ -77,7 +77,7 @@ Prof. Karen Willcox
 {{< tdopen >}}
 Introduction to Aircraft Performance and Static Stability ([PDF]({{< baseurl >}}/resources/aircraft_murman))  
   
-Aerodynamics Primer (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/aero_primer))
+Aerodynamics Primer ([PDF]({{< baseurl >}}/resources/aero_primer))
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Earll M. Murman
@@ -125,7 +125,7 @@ Prof. Ian Waitz
 9
 {{< tdclose >}}
 {{< tdopen >}}
-An Airline Viewpoint (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l9))
+An Airline Viewpoint ([PDF]({{< baseurl >}}/resources/l9))
 {{< tdclose >}}
 {{< tdopen >}}
 Gordon McKinzie, Manager New Airplane Programs United Airlines (retired) ([PDF]({{< baseurl >}}/resources/mckinzie_bio))
