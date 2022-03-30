@@ -4,6 +4,7 @@ description: 'This file contains notes for the topics: Lifecycle cost, Operating
   Development cost, Manufacturing cost, Revenue, and Valuation techniques.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2004/dfeae3bb47e8b5e6b562a0159ee2cccb_pres_willcox.pdf
 file_type: application/pdf
+parent_uid: 11cdee1a-555f-7a47-7af7-8d52e8dbcf9d
 resourcetype: Document
 title: pres_willcox.pdf
 uid: dfeae3bb-47e8-b5e6-b562-a0159ee2cccb

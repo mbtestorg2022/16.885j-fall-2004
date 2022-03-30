@@ -4,6 +4,7 @@ description: 'This file contains the topics: What is the lifecycle of an Aircraf
   Aircraft Service Life Longer than Ships?, engines etc. with the help of examples.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-885j-aircraft-systems-engineering-fall-2004/dfa9b0c31db9231fa8f0747caf20b44f_lifecycle.pdf
 file_type: application/pdf
+parent_uid: 11cdee1a-555f-7a47-7af7-8d52e8dbcf9d
 resourcetype: Document
 title: lifecycle.pdf
 uid: dfa9b0c3-1db9-231f-a8f0-747caf20b44f
